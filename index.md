@@ -10,7 +10,7 @@
 
 ---
 
-[SupplySense (FMCG/logistics)](https://github.com/arsauravkr/ML_Reg_FMCG_Supply_Chain/blob/main/FMCG_Supply_Chain.pdf)  
+[SupplySense (FMCG/Logistics)](https://github.com/arsauravkr/ML_Reg_FMCG_Supply_Chain/blob/main/FMCG_Supply_Chain.pdf)  
 ![SupplySense Project Thumbnail](images/SupplySense.png?raw=true)  
 **Repository**: [GitHub Repository](https://github.com/arsauravkr/ML_Reg_FMCG_Supply_Chain)
 
