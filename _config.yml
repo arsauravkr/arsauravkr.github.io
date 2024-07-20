@@ -5,9 +5,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/arsauravkr/">View My LinkedIn Profile</a>
   <br><br>
+  View my Resume:
+  <br><br>
   For Project details and notebook:
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
