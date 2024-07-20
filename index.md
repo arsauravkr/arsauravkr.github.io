@@ -4,8 +4,9 @@
 
 ### Data Science
 
-[Project 1 Title](http://example.com/)  
-![Project 1 Thumbnail](images/dummy_thumbnail.jpg?raw=true)  
+[InsureWise](https://github.com/arsauravkr/ML_Cls_BFSI_InsureWise/blob/main/Project19_BFSI_CLS_Insurance.pdf)  
+![Project 1 Thumbnail](images/InsureWise.png?raw=true)  
+**Repository**: [GitHub Repository](https://github.com/arsauravkr/ML_Cls_BFSI_InsureWise)
 
 ---
 
