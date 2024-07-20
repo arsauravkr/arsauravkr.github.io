@@ -4,15 +4,15 @@
 
 ### Data Science
 
-[InsureWise](https://github.com/arsauravkr/ML_Cls_BFSI_InsureWise/blob/main/Project19_BFSI_CLS_Insurance.pdf)  
+[InsureWise (BFSI)](https://github.com/arsauravkr/ML_Cls_BFSI_InsureWise/blob/main/Project19_BFSI_CLS_Insurance.pdf)  
 ![Project 1 Thumbnail](images/InsureWise.png?raw=true)  
 **Repository**: [GitHub Repository](https://github.com/arsauravkr/ML_Cls_BFSI_InsureWise)
 
 ---
 
-[TerraLens: Decoding Land Use through Satellite Imagery](http://example.com/)  
-![TerraLens Project Thumbnail](images/TerraLens.jpg?raw=true)  
-
+[SupplySense (FMCG/logistics)](http://example.com/) 
+![TerraLens Project Thumbnail](images/SupplySense.png?raw=true)
+**Repository**: [GitHub Repository](https://github.com/arsauravkr/ML_Reg_FMCG_Supply_Chain)
 ---
 
 [Air Quality Prediction in Patna, India](/pdf/CHD.pdf)  
