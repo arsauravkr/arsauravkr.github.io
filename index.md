@@ -16,8 +16,9 @@
 
 ---
 
-[Air Quality Prediction in Patna, India](/pdf/CHD.pdf)  
-![Air Quality Prediction Thumbnail](images/AQI.png?raw=true)  
+[EdiFungi: Navigating the Wilderness (Mycology)](https://github.com/arsauravkr/ML_Cls_Mushroom/blob/main/EdiFungi.pdf)  
+![SupplySense Project Thumbnail](images/EdiFungi.png?raw=true)  
+**Repository**: [GitHub Repository](https://github.com/arsauravkr/ML_Cls_Mushroom)  
 
 ---
 
