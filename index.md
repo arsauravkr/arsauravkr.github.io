@@ -24,10 +24,10 @@
 
 ### Other Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- [Financial Inclusion in Rural India](http://example.com/)
+- [AirMetrics: Breathing New Life](http://example.com/)
+- [Pixels to Words](http://example.com/)
+- [Harnessing the Web](http://example.com/)
+- [Maze Runner](http://example.com/)
+- [Word Quest](http://example.com/)
 ---
